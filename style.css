@@ -1,4 +1,43 @@
+body
+{
+	background: #CCCCCC;
+	
+}
+.Principal 
+{
+	background: #FFFFFF
+}
+#banner 
+{
+		width: 100%;
+}
+h1 
+{
+	text-align: center;
+}
 p 
 	 {
 	 	text-align: center
+
 	 }
+
+em strong
+{
+color: #ff0000
+}
+#missao
+{
+	style=font-size: 20px 
+}
+.list1
+{
+	font-style: italic;
+}
+h2
+{
+	text-align: center;
+}
+.Beneficios
+{
+	background: #FFFFFF;
+}
